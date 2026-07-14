@@ -2,13 +2,13 @@
 
 ## 1. Project Setup
 
-- [ ] Decide development platform: Android Studio / Flutter
+- [✅] Decide development platform: Android Studio / Flutter
 - [ ] Create new project
-- [ ] Set project name: `ChatConnect`
+- [✅] Set project name: `ChatConnect`
 - [ ] Set package name
 - [ ] Set minimum Android version
-- [ ] Set up GitHub repository
-- [ ] Create `README.md`
+- [✅] Set up GitHub repository
+- [✅] Create `README.md`
 - [ ] Create project folder structure
 
 ## 2. UI/UX Design
